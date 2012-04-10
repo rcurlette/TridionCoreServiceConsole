@@ -6,6 +6,9 @@ using CoreServiceConsole.CoreService;
 using System.ServiceModel;
 using System.Xml;  // through adding the 'CoreService' Service Reference...
 
+// Handler code from:
+// http://jaimesantosalcon.blogspot.com/2012/04/sdl-tridion-2011-data-extenders-real.html
+// http://code.google.com/p/tridion-practice/wiki/GetCoreServiceClientWithoutConfigFile
 // http://blogs.msdn.com/b/wenlong/archive/2007/10/27/performance-improvement-of-wcf-client-proxy-creation-and-best-practices.aspx
 
 namespace CoreServiceConsole
